@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mc-statstalker", "mc-statstalker.csproj", "{C0B2F0BC-E8F6-4045-850D-4EA88E6B1614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B2F0BC-E8F6-4045-850D-4EA88E6B1614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B2F0BC-E8F6-4045-850D-4EA88E6B1614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B2F0BC-E8F6-4045-850D-4EA88E6B1614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B2F0BC-E8F6-4045-850D-4EA88E6B1614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A65AB62-C0B3-4E2D-A38D-0FF9E2E50C7F}
+	EndGlobalSection
+EndGlobal
